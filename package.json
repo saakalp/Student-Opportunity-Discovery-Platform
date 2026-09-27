@@ -1,0 +1,15 @@
+{
+  "name": "signalboard",
+  "version": "1.0.0",
+  "description": "Student Opportunity Discovery Platform - a single place to find internships, hackathons, scholarships, and courses.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
